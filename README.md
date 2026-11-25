@@ -1,8 +1,15 @@
 <img width="653" height="317" alt="image" src="https://github.com/user-attachments/assets/4861949e-4ac9-4026-bc48-f3a80e6db80e" />
+<!-- ===================== 语言切换 ===================== -->
+<p>
+  <a href="#zh">中文</a> | <a href="#en">English</a>
+</p>
+
+<hr>
+
 <!-- ===================== 中文版 ===================== -->
 <section lang="zh-CN">
 
-<h1>局域网桥 <a href="https://j.lianghua.fun/">evgate</a>：把手机网络 / VPN 共享给身边设备（免 root 的 Android 热点代理服务器）</h1>
+<h1 id="zh">局域网桥 <a href="https://j.lianghua.fun/">evgate</a>：把手机网络 / VPN 共享给身边设备（免 root 的 Android 热点代理服务器）</h1>
 
 <p>电脑、平板、电视、游戏机——只要填一个代理地址就能上网。</p>
 
@@ -90,9 +97,11 @@
 
 <hr>
 
-<h2>局域网桥 evgate</h2>
+<h2 id="zh-keywords">局域网桥 evgate</h2>
 
 <p>共享手机 VPN、免 root 共享 VPN、把手机 VPN 共享给电脑 / 电视 / 游戏机、Android 热点代理服务器、手机当代理、局域网代理共享、SOCKS5 热点代理、PAC 自动配置。</p>
+
+<p><a href="#zh">↑ 返回顶部</a></p>
 
 </section>
 
@@ -101,7 +110,7 @@
 <!-- ===================== English ===================== -->
 <section lang="en">
 
-<h1><a href="https://j.lianghua.fun/">evgate</a> — Share Your Phone's Network / VPN with Nearby Devices (Root-Free Android Hotspot Proxy Server)</h1>
+<h1 id="en"><a href="https://j.lianghua.fun/">evgate</a> — Share Your Phone's Network / VPN with Nearby Devices (Root-Free Android Hotspot Proxy Server)</h1>
 
 <p>Computers, tablets, TVs, game consoles — just fill in one proxy address and you're online.</p>
 
@@ -189,8 +198,10 @@
 
 <hr>
 
-<h2><a href="https://j.lianghua.fun/">evgate</a></h2>
+<h2 id="en-keywords"><a href="https://j.lianghua.fun/">evgate</a></h2>
 
 <p>Share phone's VPN connection, share VPN without root, Android hotspot proxy server, use phone as proxy server, LAN proxy sharing, SOCKS5 hotspot proxy, PAC auto-config.</p>
+
+<p><a href="#en">↑ Back to top</a></p>
 
 </section>
